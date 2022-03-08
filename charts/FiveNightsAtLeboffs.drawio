@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T15:42:17.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="_yxUSvJMP4iVytPWoJ7w" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T17:55:21.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="4R9y-G9qFmyNLhlGb42k" version="17.0.0" type="github">
   <diagram id="BxguuTvQEC9DisdPZvCL" name="Page-1">
     <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="Tep6nZ2mFF3m_967vArC-46" value="Mr. Joanis&#39;s Room" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Code 7x5 Regular;fontSource=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F796521379503013919%2F950537920123662417%2FCode_7x5.ttf;rotation=0;flipV=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="1070" y="475" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Tep6nZ2mFF3m_967vArC-47" value="Dumb Room" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Code 7x5 Regular;fontSource=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F796521379503013919%2F950537920123662417%2FCode_7x5.ttf;rotation=0;flipV=1;direction=east;" parent="1" vertex="1">
+        <mxCell id="Tep6nZ2mFF3m_967vArC-47" value="Library" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Code 7x5 Regular;fontSource=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F796521379503013919%2F950537920123662417%2FCode_7x5.ttf;rotation=0;flipV=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="860" y="475" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tep6nZ2mFF3m_967vArC-48" value="Teacher Room" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;flipV=1;direction=south;" parent="1" vertex="1">
@@ -201,6 +201,9 @@
         </mxCell>
         <mxCell id="Tep6nZ2mFF3m_967vArC-72" value="Mr. Ruelis&#39;s Office" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;flipV=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="1180" y="115" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7SuG5x5nGtHgRYrDhsV-1" value="Water Fountain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1352.5" y="165" width="67.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
